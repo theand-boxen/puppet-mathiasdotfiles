@@ -1,6 +1,6 @@
 # Mathias's dotfiles Puppet Module for Boxen
 
-Install [athias's dotfiles](https://github.com/mathiasbynens/dotfiles).
+Install [Mathias's dotfiles](https://github.com/mathiasbynens/dotfiles).
 
 ## Usage
 
